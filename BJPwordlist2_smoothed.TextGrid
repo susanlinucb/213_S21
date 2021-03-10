@@ -1,0 +1,276 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 80.3 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Vowels," 
+        xmin = 0 
+        xmax = 80.3 
+        intervals: size = 63 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.549225547912708 
+            text = "" 
+        intervals [2]:
+            xmin = 1.549225547912708 
+            xmax = 1.706560336967933 
+            text = "boit" 
+        intervals [3]:
+            xmin = 1.706560336967933 
+            xmax = 3.4783928542739595 
+            text = "" 
+        intervals [4]:
+            xmin = 3.4783928542739595 
+            xmax = 3.67266711554215 
+            text = "bane" 
+        intervals [5]:
+            xmin = 3.67266711554215 
+            xmax = 5.554748638228538 
+            text = "" 
+        intervals [6]:
+            xmin = 5.554748638228538 
+            xmax = 5.708663105782562 
+            text = "bean" 
+        intervals [7]:
+            xmin = 5.708663105782562 
+            xmax = 7.552784840730586 
+            text = "" 
+        intervals [8]:
+            xmin = 7.552784840730586 
+            xmax = 7.678652671974767 
+            text = "boot" 
+        intervals [9]:
+            xmin = 7.678652671974767 
+            xmax = 9.425289463213614 
+            text = "" 
+        intervals [10]:
+            xmin = 9.425289463213614 
+            xmax = 9.574415480665957 
+            text = "boon" 
+        intervals [11]:
+            xmin = 9.574415480665957 
+            xmax = 13.37313726202576 
+            text = "" 
+        intervals [12]:
+            xmin = 13.37313726202576 
+            xmax = 13.525683600979303 
+            text = "bin" 
+        intervals [13]:
+            xmin = 13.525683600979303 
+            xmax = 15.316104361383484 
+            text = "" 
+        intervals [14]:
+            xmin = 15.316104361383484 
+            xmax = 15.560999380869443 
+            text = "barn" 
+        intervals [15]:
+            xmin = 15.560999380869443 
+            xmax = 17.480024229718758 
+            text = "" 
+        intervals [16]:
+            xmin = 17.480024229718758 
+            xmax = 17.695947680661295 
+            text = "bind" 
+        intervals [17]:
+            xmin = 17.695947680661295 
+            xmax = 19.690792867745543 
+            text = "" 
+        intervals [18]:
+            xmin = 19.690792867745543 
+            xmax = 19.794086577081796 
+            text = "bit" 
+        intervals [19]:
+            xmin = 19.794086577081796 
+            xmax = 21.91226566664281 
+            text = "" 
+        intervals [20]:
+            xmin = 21.91226566664281 
+            xmax = 22.048394462390593 
+            text = "bort" 
+        intervals [21]:
+            xmin = 22.048394462390593 
+            xmax = 25.985044802615636 
+            text = "" 
+        intervals [22]:
+            xmin = 25.985044802615636 
+            xmax = 26.141695527370622 
+            text = "bot" 
+        intervals [23]:
+            xmin = 26.141695527370622 
+            xmax = 28.127418572468372 
+            text = "" 
+        intervals [24]:
+            xmin = 28.127418572468372 
+            xmax = 28.295698390327438 
+            text = "bat" 
+        intervals [25]:
+            xmin = 28.295698390327438 
+            xmax = 30.220195753578672 
+            text = "" 
+        intervals [26]:
+            xmin = 30.220195753578672 
+            xmax = 30.357692677926934 
+            text = "bart" 
+        intervals [27]:
+            xmin = 30.357692677926934 
+            xmax = 32.21856435335591 
+            text = "" 
+        intervals [28]:
+            xmin = 32.21856435335591 
+            xmax = 32.37316288521017 
+            text = "ben" 
+        intervals [29]:
+            xmin = 32.37316288521017 
+            xmax = 34.23472247888935 
+            text = "" 
+        intervals [30]:
+            xmin = 34.23472247888935 
+            xmax = 34.36674688883569 
+            text = "bet" 
+        intervals [31]:
+            xmin = 34.36674688883569 
+            xmax = 37.93916189380776 
+            text = "" 
+        intervals [32]:
+            xmin = 37.93916189380776 
+            xmax = 38.1053895187661 
+            text = "boat" 
+        intervals [33]:
+            xmin = 38.1053895187661 
+            xmax = 39.975968163240076 
+            text = "" 
+        intervals [34]:
+            xmin = 39.975968163240076 
+            xmax = 40.13809140239698 
+            text = "bert" 
+        intervals [35]:
+            xmin = 40.13809140239698 
+            xmax = 42.08092072501318 
+            text = "" 
+        intervals [36]:
+            xmin = 42.08092072501318 
+            xmax = 42.31076632989386 
+            text = "born" 
+        intervals [37]:
+            xmin = 42.31076632989386 
+            xmax = 44.27128979497439 
+            text = "" 
+        intervals [38]:
+            xmin = 44.27128979497439 
+            xmax = 44.47377282784546 
+            text = "bomb" 
+        intervals [39]:
+            xmin = 44.47377282784546 
+            xmax = 47.07976587701957 
+            text = "" 
+        intervals [40]:
+            xmin = 47.07976587701957 
+            xmax = 47.245993501977914 
+            text = "bite" 
+        intervals [41]:
+            xmin = 47.245993501977914 
+            xmax = 51.00765730413287 
+            text = "" 
+        intervals [42]:
+            xmin = 51.00765730413287 
+            xmax = 51.19167060089746 
+            text = "bout" 
+        intervals [43]:
+            xmin = 51.19167060089746 
+            xmax = 53.08470486028764 
+            text = "" 
+        intervals [44]:
+            xmin = 53.08470486028764 
+            xmax = 53.25503687104742 
+            text = "bait" 
+        intervals [45]:
+            xmin = 53.25503687104742 
+            xmax = 55.314745805712775 
+            text = "" 
+        intervals [46]:
+            xmin = 55.314745805712775 
+            xmax = 55.43856144405623 
+            text = "beat" 
+        intervals [47]:
+            xmin = 55.43856144405623 
+            xmax = 57.68123638231096 
+            text = "" 
+        intervals [48]:
+            xmin = 57.68123638231096 
+            xmax = 57.829678335463065 
+            text = "but" 
+        intervals [49]:
+            xmin = 57.829678335463065 
+            xmax = 60.1464461084272 
+            text = "" 
+        intervals [50]:
+            xmin = 60.1464461084272 
+            xmax = 60.270945811070895 
+            text = "boing" 
+        intervals [51]:
+            xmin = 60.270945811070895 
+            xmax = 66.47014363980743 
+            text = "" 
+        intervals [52]:
+            xmin = 66.47014363980743 
+            xmax = 66.64047565056721 
+            text = "bought" 
+        intervals [53]:
+            xmin = 66.64047565056721 
+            xmax = 68.50967460459069 
+            text = "" 
+        intervals [54]:
+            xmin = 68.50967460459069 
+            xmax = 68.63896275733607 
+            text = "ban" 
+        intervals [55]:
+            xmin = 68.63896275733607 
+            xmax = 70.57279229890733 
+            text = "" 
+        intervals [56]:
+            xmin = 70.57279229890733 
+            xmax = 70.77117094597696 
+            text = "bone" 
+        intervals [57]:
+            xmin = 70.77117094597696 
+            xmax = 72.8105795498186 
+            text = "" 
+        intervals [58]:
+            xmin = 72.8105795498186 
+            xmax = 73.01921916139183 
+            text = "birm" 
+        intervals [59]:
+            xmin = 73.01921916139183 
+            xmax = 75.00265299960537 
+            text = "" 
+        intervals [60]:
+            xmin = 75.00265299960537 
+            xmax = 75.1599877886606 
+            text = "bun" 
+        intervals [61]:
+            xmin = 75.1599877886606 
+            xmax = 77.16906054930831 
+            text = "" 
+        intervals [62]:
+            xmin = 77.16906054930831 
+            xmax = 77.39274957548683 
+            text = "bound" 
+        intervals [63]:
+            xmin = 77.39274957548683 
+            xmax = 80.3 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Notes" 
+        xmin = 0 
+        xmax = 80.3 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 80.3 
+            text = "all word final /t/ glottalized" 
