@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.864 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.864 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2710200527656645 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2710200527656645 
+            xmax = 1.3532845754450233 
+            text = "h" 
+        intervals [3]:
+            xmin = 1.3532845754450233 
+            xmax = 1.4707948553714967 
+            text = "E" 
+        intervals [4]:
+            xmin = 1.4707948553714967 
+            xmax = 1.5423459658179572 
+            text = "h" 
+        intervals [5]:
+            xmin = 1.5423459658179572 
+            xmax = 1.6677104935705966 
+            text = "O" 
+        intervals [6]:
+            xmin = 1.6677104935705966 
+            xmax = 1.7689847282088564 
+            text = "y" 
+        intervals [7]:
+            xmin = 1.7689847282088564 
+            xmax = 1.9396334144056744 
+            text = "i" 
+        intervals [8]:
+            xmin = 1.9396334144056744 
+            xmax = 2.4681695440995557 
+            text = "" 
+        intervals [9]:
+            xmin = 2.4681695440995557 
+            xmax = 2.523353256072941 
+            text = "h" 
+        intervals [10]:
+            xmin = 2.523353256072941 
+            xmax = 2.656295676438886 
+            text = "E" 
+        intervals [11]:
+            xmin = 2.656295676438886 
+            xmax = 2.7148190553532445 
+            text = "h" 
+        intervals [12]:
+            xmin = 2.7148190553532445 
+            xmax = 2.838505710401269 
+            text = "O" 
+        intervals [13]:
+            xmin = 2.838505710401269 
+            xmax = 2.9057739620269687 
+            text = "y" 
+        intervals [14]:
+            xmin = 2.9057739620269687 
+            xmax = 3.0724501502769046 
+            text = "i" 
+        intervals [15]:
+            xmin = 3.0724501502769046 
+            xmax = 3.612882215299072 
+            text = "" 
+        intervals [16]:
+            xmin = 3.612882215299072 
+            xmax = 3.65960594070345 
+            text = "h" 
+        intervals [17]:
+            xmin = 3.65960594070345 
+            xmax = 3.758299755746641 
+            text = "E" 
+        intervals [18]:
+            xmin = 3.758299755746641 
+            xmax = 3.821760338012288 
+            text = "h" 
+        intervals [19]:
+            xmin = 3.821760338012288 
+            xmax = 3.961932590934606 
+            text = "O" 
+        intervals [20]:
+            xmin = 3.961932590934606 
+            xmax = 4.047011613312727 
+            text = "y" 
+        intervals [21]:
+            xmin = 4.047011613312727 
+            xmax = 4.178276642429627 
+            text = "i" 
+        intervals [22]:
+            xmin = 4.178276642429627 
+            xmax = 4.864 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 4.864 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2710200527656645 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2710200527656645 
+            xmax = 1.9396334144056744 
+            text = "hEhOyi" 
+        intervals [3]:
+            xmin = 1.9396334144056744 
+            xmax = 2.4681695440995557 
+            text = "" 
+        intervals [4]:
+            xmin = 2.4681695440995557 
+            xmax = 3.0724501502769046 
+            text = "hEhOyi" 
+        intervals [5]:
+            xmin = 3.0724501502769046 
+            xmax = 3.612882215299072 
+            text = "" 
+        intervals [6]:
+            xmin = 3.612882215299072 
+            xmax = 4.178276642429627 
+            text = "hEhOyi" 
+        intervals [7]:
+            xmin = 4.178276642429627 
+            xmax = 4.864 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "notes" 
+        xmin = 0 
+        xmax = 4.864 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2710200527656645 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2710200527656645 
+            xmax = 1.9396334144056744 
+            text = "oral airflow is 2nd channel (top); nasal airflow is 3rd channel (bottom)" 
+        intervals [3]:
+            xmin = 1.9396334144056744 
+            xmax = 2.4681695440995557 
+            text = "" 
+        intervals [4]:
+            xmin = 2.4681695440995557 
+            xmax = 3.0724501502769046 
+            text = "oral airflow is channel 2; nasal airflow is channel 3" 
+        intervals [5]:
+            xmin = 3.0724501502769046 
+            xmax = 3.612882215299072 
+            text = "" 
+        intervals [6]:
+            xmin = 3.612882215299072 
+            xmax = 4.178276642429627 
+            text = "channel 2 is oral airflow; channel 3 is nasal airflow" 
+        intervals [7]:
+            xmin = 4.178276642429627 
+            xmax = 4.864 
+            text = "" 
